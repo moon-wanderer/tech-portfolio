@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: 'n/a',
         twitter: 'n/a',
-        github: 'n/a',
+        github: 'moon-wanderer',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
